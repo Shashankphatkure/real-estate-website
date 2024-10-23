@@ -117,7 +117,7 @@ module.exports = [
     subMenu: [
       { path: "/about", label: "About" },
       { path: "/contact", label: "Contact" },
-      { path: "/compare", label: "Compate" },
+      { path: "/compare", label: "Compare" },
       { path: "/pricing", label: "Pricing" },
       { path: "/faq", label: "Faq" },
       { path: "/login", label: "Login" },
